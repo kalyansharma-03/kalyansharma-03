@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalyansharma-03" alt="kalyansharma-03" /></a> </p>
 
-- 🔭 I’m currently working on **Technofex, Nepal**
+- 🔭 I’m currently working at **Technofex, Nepal**
 
 - 🌱 I’m currently learning **.Net core framework, Web API**
 
